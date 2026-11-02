@@ -1,9 +1,9 @@
-# 📦 PanaSony Inventory Intelligence Dashboard
+# 📦 PanaSonic Inventory Intelligence Dashboard
 
 **End-to-End Inventory Management Data Pipeline & Power BI Dashboard**
 ---
 ## Executive Summary
-The **PanaSony Inventory Intelligence Dashboard** is a comprehensive analytics solution engineered to provide real-time visibility into inventory operations across six global manufacturing facilities. 
+The **PanaSonic Inventory Intelligence Dashboard** is a comprehensive analytics solution engineered to provide real-time visibility into inventory operations across six global manufacturing facilities. 
 
 This project bridges the gap between raw, disconnected ERP data and strategic decision-making. By consolidating 3,780 inventory records across six years (2020–2025) and applying robust data modeling, the solution empowers Supply Chain leadership to monitor $378.88M in capital tied up in inventory, proactively prevent stockouts, and optimize cross-regional stock rebalancing.
 
@@ -15,7 +15,7 @@ This project bridges the gap between raw, disconnected ERP data and strategic de
 ---
 
 ## Business Problem
-PanaSony previously lacked a centralized, real-time view of its vast inventory portfolio (over 2.38M units on hand). Inventory managers relied on manual, weekly data extractions from 6 disconnected factory systems, leading to critical operational blind spots:
+PanaSonic previously lacked a centralized, real-time view of its vast inventory portfolio (over 2.38M units on hand). Inventory managers relied on manual, weekly data extractions from 6 disconnected factory systems, leading to critical operational blind spots:
 1. **Poor Availability Visibility:** The company couldn't quickly identify which factories or product categories were dragging down the overall availability average (77.82%), causing fulfillment delays.
 2. **In-Transit Blind Spots:** Over 472K units were consistently in-transit without active monitoring, causing receiving bottlenecks and logistical uncertainty.
 3. **Capital Misallocation:** Finance teams lacked real-time visibility into the $378.88M inventory value to strategically monitor high-value facilities like the Pune factory.
